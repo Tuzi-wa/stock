@@ -4,7 +4,7 @@
 # Users can view stock trends by entering the stock name or code 用户可以通过输入股票名字或代码查看股票走势
 
 
-# 用户可以通过输入股票名字或代码查看股票走势
+
 import pandas as pd
 from pandas_datareader import data
 
