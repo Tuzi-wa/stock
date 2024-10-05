@@ -1,0 +1,6 @@
+# build a stock analysis system 建立一个股票分析系统
+# calculate returns and volatility 计算收益率和波动率（NUMPY）
+# display stock price, moving averages, returns, and other informations 展示股票价格，移动平均线，收益率等内容（Matplotlib）
+# Users can view stock trends by entering the stock name or code 用户可以通过输入股票名字或代码查看股票走势
+
+aaa
