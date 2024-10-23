@@ -1,7 +1,4 @@
 
-
-
-<
 import pandas as pd
 import numpy as np
 import yfinance as yf
@@ -31,12 +28,11 @@ def download_and_cache_stock_data(stock_code, start_date, end_date, interval='1d
     
     return stock_data
 
-<<<<<<< HEAD
-# 从 CSV 文件中读取股票代码（nasdaq-listed.csv）
+
 df = pd.read_csv('//Users/mi/Desktop/Stock_analysis/nasdaq-listed.csv')
 stock_codes2 = df['Symbol'].tolist()
 print(stock_codes2)
-=======
+
 # function of tec_indicator
 def calculate_technical_indicators(stock_data):
     stock_data['MA20'] = stock_data['Close'].rolling(window=20).mean()
@@ -228,4 +224,4 @@ if __name__ == "__main__":
 
     # single, composite, and comparison charts
     stock_analysis_multiple_individual_and_comparison(stock_codes, start_date=start_date, end_date=end_date, interval=interval, force_download=False)
->>>>>>> 0bd49a4 (initial coding completed)
+
