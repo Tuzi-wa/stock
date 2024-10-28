@@ -1,6 +1,6 @@
 Stock Analysis and Comparison System
 
-This project is a Stock Analysis and Comparison System built using Python. It allows users to analyze the stock price movements over various time intervals (daily, weekly, monthly, yearly) and compare them with market indices (e.g., S&P 500). It also provides the ability to visualize multiple stocks in a single chart for comparison.
+This project is a Stock Analysis and Comparison System built using Python. It allows users to analyze the stock price movements over various time intervals (daily, weekly, monthly, yearly) and compare them with market indices . It also provides the ability to visualize multiple stocks in a single chart for comparison.
 Features
 
 	1.	Multiple Stock Comparison: Visualize and compare the price movements of multiple stocks on the same chart.
