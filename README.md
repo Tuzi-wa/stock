@@ -10,7 +10,7 @@ Features
 	5.	Time Interval Selection: Select different intervals (daily, weekly, hourly, or minute) for detailed stock data.
 	6.	Data Caching: Save downloaded stock data to avoid re-downloading the same data, improving efficiency.
 	7.	CSV Output: Save stock analysis data into CSV files for further use or analysis.
-Getting Started
+
 
 Prerequisites
 
